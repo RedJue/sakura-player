@@ -1,2 +1,2 @@
 # sakura-player
-powerful beautiful H5 player
+A beautiful and practical h5 player
